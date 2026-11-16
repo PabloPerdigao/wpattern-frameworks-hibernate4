@@ -92,5 +92,3 @@ Por fim, execute a classe principal `Main` pela IDE.
 ## Segurança
 
 As credenciais do banco de dados são obtidas por meio de variáveis de ambiente configuradas na IDE e não são armazenadas diretamente no código-fonte.
-
-Não publique senhas ou informações sensíveis no repositório.
